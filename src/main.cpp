@@ -8,12 +8,18 @@ int main() {
     std::cout << "Enter resort name: ";
     std::cin >> resort;
     std::cout << std::endl;
-    match(resort);
-    if (match(resort)) {
-        std::cout << "Match" << std::endl;
-    } else if (!match(resort)){
-        std::cout << "No match" << std::endl;
+    bool quit;
+    char askQuit;
+    while (!quit){
+        if (match(resort)) {
+            std::cout << "Match" << std::endl;
+            std::cout << line;
+        } else if (!match(resort)){
+            std::cout << "No match" << std::endl;
+        }
+        if (toupper(askQuit)){
+            quit = true;
+        }
     }
 }
-//TODO: Better match system
 //TODO: WASM website
