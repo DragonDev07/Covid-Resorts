@@ -3,7 +3,7 @@
 #include <fstream>
 #include <sstream>
 
-void match(std::string inputName){
+bool match(std::string inputName){
     std::ifstream file ("../data/resorts.txt");
     std::string line;
 
@@ -11,13 +11,13 @@ void match(std::string inputName){
     if (file){
         while (getline(file, line)){
             if (line == inputName){
-                std::cout << "\nMatch found!" << std::endl;
                 match = true;
+                return match;
                 break;
             }
         }
         if (match == false){
-            std::cout << "failed to find resort" << std::endl;
+            return match;
         }
     }
 }
