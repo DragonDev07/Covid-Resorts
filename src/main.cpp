@@ -9,9 +9,9 @@ int main() {
     std::cin >> resort;
     std::cout << std::endl;
     match(resort);
-    if (match){
+    if (match(resort)) {
         std::cout << "Match" << std::endl;
-    } else if (!match){
+    } else if (!match(resort)){
         std::cout << "No match" << std::endl;
     }
 }

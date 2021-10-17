@@ -8,17 +8,14 @@ bool match(std::string inputName){
     std::string line;
 
     bool match = false;
-    if (file){
-        while (getline(file, line)){
-            if (line == inputName){
-                match = true;
-                return match;
-                break;
-            }
-        }
-        if (match == false){
-            return match;
+    while (getline(file, line)){
+        if (line.find(inputName)){
+            match = true;
+            return true;
+            break;
         }
     }
+    if (match == false){
+        return false;
+    }
 }
-

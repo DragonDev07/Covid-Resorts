@@ -1,64 +1,238 @@
-Whistler Blackcomb
-Vail
-Telluride
-Beaver Creek
-Mammoth Mountain
-Snowmass
-Sun Peaks
-Breckenridge
-Keystone
-Lake Louise
-Tremblant
-Big White
-Palasades Tahoe
-Mont-Sainte-Anne
-Killington
-Sunday River
-Winter Park Resort
-Heavenly
-Silver Star
-Stowe
-Fernie
-Bromont
-Sunshine Village
-Panorama
-Park City
-Steamboat
-Big Sky Resort
-Aspen Highlands
-Kimberley
-Stoneham
-Alpine Meadows
-Copper Mountain
-Alta
-Buttermilk Mountain
-Revelstoke Mountain Resort
-Nakiska
-Jackson Hole
-Deer Valley
-Crested Butte
-Powder Mountain
-Northstar California Resort
-Sommet Saint-Sauveur
-Mt. Bachelor
-Yellowstone Club
-Castle Mountain
-Le Massif de Charlevoix
-Bald Mountain
-Snowbird
-Schweitzer Mountain Resort
-Arapahoe Basin
-Mt. Hood Meadows
-Stratton
-Wenatchee
-Red Mountain Resort
-Taos
-Cypress Mountain
-Aspen Mountain
-Sierra at Tahoe
-Homewoord Mountain Resort
-Whitefish Mountain Resort
-Surgarbush
-Wolf Creek
-Angel Fire
-Sugarloaf
+Baker Mountain — Bingham
+Big Rock — Mars Hill
+Big Squaw — Greenville
+Black Mountain of Maine — Rumford
+Camden Snow Bowl — Camden
+Eaton Mountain — Skowhegan
+Hermon Mountain — Hermon
+Lonesome Pine Trails — Fort Kent
+Lost Valley — Auburn
+Mount Abram — Greenwood
+Mount Jefferson Ski Area — Lee
+Pinnacle Ski Club — Pittsfield
+Powderhouse Hill — South Berwick
+Quoggy Jo — Presque Isle
+Saddleback Maine — Rangeley
+Shawnee Peak — Bridgton
+Sugarloaf — Carrabassett Valley
+Sunday River — Newry
+Titcomb Mountain — Farmington
+Berkshire East Ski Resort — Charlemont
+Blandford Ski Area — Blandford
+Blue Hills Ski Area — Canton
+Bousquet Ski Area — Pittsfield
+Butternut — Great Barrington
+Easton Ski Area at Eaglebrook School
+Jiminy Peak — Hancock
+Mount Greylock Ski Club — Williamstown
+Nashoba Valley Ski Area — Westford
+Otis Ridge — Otis
+Ski Bradford — Haverhill
+Ski Ward — Shrewsbury
+Wachusett Mountain — Princeton
+Abenaki Ski Area — Wolfeboro
+Arrowhead — Claremont
+Attitash — Bartlett
+Black Mountain — Jackson
+Bretton Woods — Bretton Woods
+Cannon Mountain — Franconia Notch
+Campton Mountain — Waterville
+Cranmore Mountain Resort — North Conway
+Crotched Mountain — Bennington
+Dartmouth Skiway — Lyme
+Franklin Veterans Memorial Recreation Area — Franklin
+Granite Gorge — Keene
+Gunstock Mountain Resort — Gilford
+Kanc Rec Area — Lincoln
+King Pine — East Madison
+Loon Mountain — Lincoln
+McIntyre Ski Area — Manchester
+Mount Eustis - Littleton
+Mount Prospect — Lancaster
+Mount Sunapee Resort — Sunapee
+Pats Peak — Henniker
+Ragged Mountain — Danbury
+Red Hill Ski Club — Moultonborough
+Storrs Hill — Lebanon
+Tenney Mountain Ski Resort — Plymouth
+The Balsams Wilderness — Dixville Notch
+Waterville Valley Resort — Waterville Valley
+Whaleback — Enfield
+Wildcat Mountain — Pinkham Notch
+Yawgoo Valley — Exeter
+Ascutney Outdoors - Brownsville
+Bellows Falls Ski Tow — Bellows Falls
+Bolton Valley Resort — Bolton Valley
+Bromley Mountain — Peru
+Burke Mountain — East Burke
+Cochran's Ski Area — Richmond
+Harrington Hill — Strafford
+Hard 'Ack — St. Albans
+Haystack Mountain — Wilmington
+Jay Peak Resort — Jay
+Killington Ski Resort — Killington
+Living Memorial Park — Brattleboro
+Lyndon Outing Club — Lyndon
+Mad River Glen — Fayston (ski only)
+Magic Mountain — Londonderry
+Middlebury College Snow Bowl — Hancock
+Mount Snow — West Dover
+Northeast Slopes — East Corinth
+Okemo Mountain — Ludlow
+Pico Mountain — Killington
+Plymouth Notch — Plymouth
+Quechee Lakes Ski Area — Quechee
+Smugglers' Notch — Jeffersonville
+Stowe Mountain Resort — Stowe
+Stratton Mountain Resort — Stratton Mountain
+Sugarbush Resort — Warren
+Suicide Six — South Pomfret
+Wisp Ski Resort — McHenry
+Big Snow American Dream — East Rutherford (indoor)
+Campgaw Mountain — Mahwah
+Hidden Valley — Vernon
+Mountain Creek — Vernon
+Beartown Ski Area — Plattsburgh
+Belleayre Ski Center — Highmount
+Big Tupper Ski Area — Tupper Lake
+Brantling Ski Slopes — Sodus
+Bristol Mountain Ski Resort — South Bristol
+Buffalo Ski Club — Colden
+Catamount Ski Area — Hillsdale
+Dry Hill Ski Area — Watertown
+Gore Mountain — North Creek
+Greek Peak — Virgil
+Hickory Ski Center — Warrensburg
+Holiday Valley — Ellicottville
+Holiday Mountain Ski & Fun — Monticello
+Holimont — Ellicottville
+Hunter Mountain — Hunter
+Kissing Bridge — Colden
+Labrador Mountain — Truxton
+Mount Peter Ski Area — Warwick
+McCauley Mountain — Old Forge
+Oak Mountain — Speculator
+Peek'n Peak — Clymer
+Plattekill Mountain — Roxbury
+Royal Mountain — Caroga
+Song Mountain Resort — Tully
+Snow Ridge Ski Resort — Turin
+Swain — Swain
+Sugar Hill — Sugar Hill
+Thunder Ridge Ski Area — Patterson
+Titus Mountain — Malone
+Toggenburg Mountain — Fabius
+West Mountain — Glens Falls
+Willard Mountain — Greenwich
+Whiteface Mountain — Wilmington
+Windham Mountain — Windham
+Woods Valley Ski Resort — Westernville
+Victor Constant Ski Area - West Point
+Bear Creek Mountain Resort — Macungie
+Blue Knob All Seasons Resort — Claysburg
+Blue Mountain Ski Area — Palmerton
+Boyce Park — Plum
+Camelback Ski Area — Tannersville
+Eagle Rock Resort — Hazleton
+Elk Mountain — Union Dale
+Hidden Valley Four Seasons Resort — Hidden Valley
+Jack Frost Big Boulder — Blakeslee
+Laurel Mountain Ski Resort — Ligonier
+Liberty Mountain Resort — Carroll Valley
+Mountain View at Edinboro — Edinboro
+Seven Springs Mountain Resort — Seven Springs
+Shawnee Mountain Ski Area — East Stroudsburg
+Ski Big Bear — Lackawaxen
+Ski Denton — Coudersport
+Ski Roundtop — Lewisberry
+Spring Mountain — Schwenksville
+Ski Sawmill — Morris
+Montage Mountain Ski Resort — Scranton
+Tussey Mountain Ski Area — State College
+Whitetail Ski Resort — Mercersburg
+Cloudmont Ski & Golf Resort — Mentone
+Appalachian Ski Mountain — Blowing Rock
+Cataloochee Ski Area — Maggie Valley
+Sapphire Valley — Sapphire
+Ski Beech — Beech Mountain
+Sugar Mountain — Sugar Mountain
+Wolf Ridge — Mars Hill
+Ober Gatlinburg — Gatlinburg
+Mount Aggie Ski Slope — College Station
+Bryce Resort — Basye-Bryce Mountain
+Massanutten Ski Resort — Massanutten
+The Homestead — Hot Springs
+Wintergreen Resort — Wintergreen
+Canaan Valley Resort — Davis
+Oglebay Resort — Wheeling
+Snowshoe Mountain — Snowshoe
+Timberline Four Seasons Resort — Davis
+Winterplace — Ghent
+Chestnut Mountain Resort — Galena
+Ski Four Lakes — Lisle
+Raging Buffalo Snowboard Park — Algonquin
+Ski Snowstar — Andalusia
+Villa Olivia — Bartlett
+Paoli Peaks — Paoli
+Perfect North Slopes — Lawrenceburg
+Mt. Crescent Ski Area — Crescent
+Seven Oaks Snow Ski Area — Boone
+Sleepy Hollow Sports Park — Des Moines
+Sundown Mountain — Dubuque
+Al Quaal Recreation Ski Area — Ishpeming
+Alpine Valley — White Lake
+Apple Mountain Ski Resort — Freeland
+Big Powderhorn Ski Area — Bessemer
+Bittersweet Ski Resort — Otsego
+Blackjack Ski Resort — Bessemer
+Boyne Highlands Resort — Harbor Springs
+Boyne Mountain — Boyne Falls
+Caberfae Peaks Ski & Golf Resort — Cadillac
+Cannonsburg Ski Area — Cannonsburg
+Challenge Mountain — Boyne City
+Crystal Mountain Resort & Spa — Thompsonville
+Garland Resort — Lewiston
+Hickory Hills Ski Area — Traverse City
+The Homestead — Glen Arbor
+Indianhead Mountain Resort — Wakefield
+Marquette Mountain — Marquette
+Mont Ripley Ski Resort — Houghton
+Mount Bohemia — Lac La Belle
+Mt. Brighton Ski Resort — Brighton
+Mt. Holiday — Traverse City
+Mt. Holly Ski and Snowboard Resort — Holly
+Mt. McSauba Recreation Area — Charlevoix
+Mt. Zion Ski Area — Ironwood
+Mulligan's Hollow Ski Bowl — Grand Haven
+Norway Mountain Ski and Snowboard Resort — Norway
+Nub's Nob — Harbor Springs
+Otsego Club & Resort — Gaylord
+Petoskey Winter Sports Park — Petoskey
+Pine Knob Ski Resort — Clarkston
+Pine Mountain Resort — Iron Mountain
+Porcupine Mountains — Silver City
+Shanty Creek Resorts — Bellaire
+Ski Brule — Iron River
+Snow Snake Ski & Golf — Harrison
+Swiss Valley Ski and Snowboard Area — Jones
+Timber Ridge Ski Area — Gobles
+Treetops Resort — Gaylord
+Afton Alps — Afton
+Andes Tower Hills — Kensington
+Buck Hill — Burnsville
+Buena Vista Ski Area — Bemidji
+Chester Bowl Park — Duluth
+Coffee Mill Ski Area — Wabasha
+Detroit Mountain — Detroit Lakes
+Giants Ridge — Biwabik
+Hyland Ski and Snowboard Area — Bloomington
+Lutsen Mountains — Lutsen
+Mount Itasca — Coleraine
+Mount Kato — Mankato
+Powder Ridge — Kimball
+Ski Gull — Nisswa
+Spirit Mountain — Duluth
+Welch Village — Welch
+Wild Mountain — Taylors Falls
+Hidden Valley Ski Area — Wildwood
+Snow Creek — Weston
