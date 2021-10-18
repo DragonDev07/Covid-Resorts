@@ -4,7 +4,7 @@
 #include <sstream>
 #include <string>
 
-bool match(const std::string &inputName, std::string &lineout){
+bool match(const std::string &inputName, std::string &lineout, std::string &resultOut){
     std::ifstream resorts("../data/resorts.txt");
     std::string line;
 
@@ -13,6 +13,7 @@ bool match(const std::string &inputName, std::string &lineout){
         if (line.find(inputName) != std::string::npos){
             match = true;
             lineout = line;
+            resultOut = inputName;
             return true;
             break;
         }
