@@ -12,16 +12,16 @@ int main() {
     while (!quit){
         std::cout << "Enter resort name: ";
         std::cin >> resort;
-        
+
         if (match(resort, result)) {
             std::cout << "Match, " << result << std::endl;
-        } 
+        }
         else {
             std::cout << "No match" << std::endl;
         }
         std::cout << "Enter Q to quit. Press any other key to search again" << std::endl;
         std::cin >> askQuit;
-        if (toupper(askQuit)){
+        if (toupper(askQuit) == 'Q'){
             quit = true;
         }
     }

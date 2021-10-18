@@ -3,6 +3,6 @@
 #define MATCH_HPP
 
 //TODO: Make this a class when match functionality increases
-bool match(std::string inputName);
+bool match(std::string inputName, std::string &lineout);
 
 #endif
