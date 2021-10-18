@@ -2,7 +2,7 @@
 #include <fstream>
 #include <sstream>
 #include "match.hpp"
-#include "match2.hpp"
+#include "resort2covid.hpp"
 
 int main() {
     bool quit = false;
@@ -16,7 +16,10 @@ int main() {
 
         if (match(resort, result)) {
             std::cout << "Match, " << result << std::endl;
-            std::cout << match2(result) << std::endl;
+            resort2covid s_resort(result);
+            s_resort.county(s_resort.resortIn);
+            std::cout << "covid cases in the area: " << s_resort.covid(s_resort.countyOut) << std::endl;
+            
         }
         else {
             std::cout << "No match" << std::endl;
