@@ -19,8 +19,9 @@ void resort2covid::county(const std::string &resort){
     std::vector<std::string> row;
 
     while (getline(resortlist, line)) {
+        std::stringstream l(line); 
         if (line.find(resort) != std::string::npos) {
-            while (getline(line, word, ',')) {
+            while (getline(l, word, ',')) {
                 row.push_back(word);
             }
             break;
@@ -36,8 +37,9 @@ std::string resort2covid::covid(const std::string &county) {
     std::vector<std::string> row;
 
     while(getline(covidlist, line)) {
+        std::stringstream l(line);
         if (line.find(county) != std::string::npos) {
-            while (getline(line, word, ',')) {
+            while (getline(l, word, ',')) {
                 row.push_back(word);
             }
             break;
