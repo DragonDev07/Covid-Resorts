@@ -2,9 +2,9 @@
 #include <fstream>
 #include <sstream>
 #include "match.hpp"
+#include "match2.hpp"
 
 int main() {
-
     bool quit = false;
     char askQuit;
     std::string resort;
@@ -16,6 +16,7 @@ int main() {
 
         if (match(resort, result)) {
             std::cout << "Match, " << result << std::endl;
+            std::cout << match2(result) << std::endl;
         }
         else {
             std::cout << "No match" << std::endl;
@@ -26,7 +27,4 @@ int main() {
             quit = true;
         }
     }
- 
-
-
 }

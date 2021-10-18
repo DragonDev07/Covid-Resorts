@@ -5,11 +5,11 @@
 #include <string>
 
 bool match(const std::string &inputName, std::string &lineout){
-    std::ifstream file ("../data/resorts.txt");
+    std::ifstream resorts("../data/resorts.txt");
     std::string line;
 
     bool match = false;
-    while (getline(file, line)){
+    while (getline(resorts, line)){
         if (line.find(inputName) != std::string::npos){
             match = true;
             lineout = line;
